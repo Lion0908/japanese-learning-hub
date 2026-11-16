@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>慣用句專區 - Japanese Learning Hub</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+    <header class="navbar">
+        <div class="container">
+            <h1>Japanese Learning Hub</h1>
+            <nav>
+                <a href="../index.html">首頁</a>
+                <a href="vocabulary.html">單字</a>
+                <a href="grammar.html">文法</a>
+                <a href="idioms.html" class="active">慣用句</a>
+                <a href="exercises.html">練習題</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container">
+        <h2>慣用句與表現 (Idioms & Expressions)</h2>
+        <div class="toolbar">
+            <input type="text" id="searchInput" placeholder="搜尋慣用句、讀音、意思..." class="search-box">
+            <select id="levelFilter" class="level-filter">
+                <option value="all">全部程度</option>
+                <option value="N3">N3</option>
+                <option value="N2">N2</option>
+            </select>
+        </div>
+        <div id="idiomsList" class="content-list">載入中...</div>
+    </main>
+
+    <script src="../js/main.js"></script>
+    <script src="../js/search.js"></script>
+</body>
+</html>
