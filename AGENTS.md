@@ -163,11 +163,6 @@ japanese-learning-hub/
 │   ├── search.js
 │   └── exercises.js
 │
-├── data/
-│   ├── vocabulary.json
-│   ├── grammar.json
-│   ├── idioms.json
-│   └── exercises.json
 └── data/
     ├── vocabulary.json
     ├── grammar.json
