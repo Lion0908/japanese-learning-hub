@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "level": "N3",
+    "word": "確認",
+    "reading": "かくにん",
+    "meaning": "確認、查證",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "出発する前に、持ち物をもう一度確認してください。",
+    "translation": "出發前請再確認一次攜帶物品。"
+  },
+  {
+    "id": 2,
+    "level": "N3",
+    "word": "解決",
+    "reading": "かいけつ",
+    "meaning": "解決",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "この問題は話し合いで解決しました。",
+    "translation": "這個問題透過討論解決了。"
+  },
+  {
+    "id": 3,
+    "level": "N3",
+    "word": "影響",
+    "reading": "えいきょう",
+    "meaning": "影響",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "天気が試合の結果に影響を与えた。",
+    "translation": "天氣對比賽結果造成了影響。"
+  },
+  {
+    "id": 4,
+    "level": "N3",
+    "word": "準備",
+    "reading": "じゅんび",
+    "meaning": "準備",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "明日の会議の準備をしています。",
+    "translation": "我正在準備明天的會議。"
+  },
+  {
+    "id": 5,
+    "level": "N3",
+    "word": "相談",
+    "reading": "そうだん",
+    "meaning": "商量、諮詢",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "進路について先生に相談しました。",
+    "translation": "我向老師商量了升學方向的事。"
+  },
+  {
+    "id": 6,
+    "level": "N3",
+    "word": "経験",
+    "reading": "けいけん",
+    "meaning": "經驗",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "海外で働いた経験があります。",
+    "translation": "我有在海外工作的經驗。"
+  },
+  {
+    "id": 7,
+    "level": "N3",
+    "word": "習慣",
+    "reading": "しゅうかん",
+    "meaning": "習慣",
+    "partOfSpeech": "名詞",
+    "example": "毎朝走ることを習慣にしています。",
+    "translation": "我把每天早上跑步當作習慣。"
+  },
+  {
+    "id": 8,
+    "level": "N3",
+    "word": "期待",
+    "reading": "きたい",
+    "meaning": "期待",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "新しい仕事に期待しています。",
+    "translation": "我對新工作抱有期待。"
+  },
+  {
+    "id": 9,
+    "level": "N3",
+    "word": "遠慮",
+    "reading": "えんりょ",
+    "meaning": "客氣、顧慮",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "遠慮しないで、たくさん食べてください。",
+    "translation": "別客氣，請多吃一點。"
+  },
+  {
+    "id": 10,
+    "level": "N3",
+    "word": "我慢",
+    "reading": "がまん",
+    "meaning": "忍耐",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "痛くても、少し我慢してください。",
+    "translation": "即使痛，也請稍微忍耐一下。"
+  },
+  {
+    "id": 11,
+    "level": "N3",
+    "word": "迷惑",
+    "reading": "めいわく",
+    "meaning": "麻煩、困擾",
+    "partOfSpeech": "名詞・な形容詞",
+    "example": "人に迷惑をかけてはいけません。",
+    "translation": "不可以給別人添麻煩。"
+  },
+  {
+    "id": 12,
+    "level": "N3",
+    "word": "感謝",
+    "reading": "かんしゃ",
+    "meaning": "感謝",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "助けてくれた友達に感謝しています。",
+    "translation": "我很感謝幫助我的朋友。"
+  },
+  {
+    "id": 13,
+    "level": "N3",
+    "word": "努力",
+    "reading": "どりょく",
+    "meaning": "努力",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "合格するために努力を続けます。",
+    "translation": "為了合格我會繼續努力。"
+  },
+  {
+    "id": 14,
+    "level": "N3",
+    "word": "提案",
+    "reading": "ていあん",
+    "meaning": "提案、建議",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "会議で新しい計画を提案しました。",
+    "translation": "我在會議中提出了新計畫。"
+  },
+  {
+    "id": 15,
+    "level": "N3",
+    "word": "確認書",
+    "reading": "かくにんしょ",
+    "meaning": "確認書、確認文件",
+    "partOfSpeech": "名詞",
+    "example": "申し込みの確認書をメールで送りました。",
+    "translation": "我用電子郵件寄出了申請確認書。"
+  },
+  {
+    "id": 16,
+    "level": "N2",
+    "word": "傾向",
+    "reading": "けいこう",
+    "meaning": "傾向",
+    "partOfSpeech": "名詞",
+    "example": "若い人の間では、動画を見る時間が増える傾向がある。",
+    "translation": "年輕人之間有觀看影片時間增加的傾向。"
+  },
+  {
+    "id": 17,
+    "level": "N2",
+    "word": "把握",
+    "reading": "はあく",
+    "meaning": "掌握、理解",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "まず状況を正確に把握することが大切だ。",
+    "translation": "首先正確掌握狀況很重要。"
+  },
+  {
+    "id": 18,
+    "level": "N2",
+    "word": "実施",
+    "reading": "じっし",
+    "meaning": "實施、執行",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "来月から新しい制度を実施します。",
+    "translation": "下個月開始實施新制度。"
+  },
+  {
+    "id": 19,
+    "level": "N2",
+    "word": "改善",
+    "reading": "かいぜん",
+    "meaning": "改善",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "サービスを改善するために意見を集めています。",
+    "translation": "為了改善服務，我們正在收集意見。"
+  },
+  {
+    "id": 20,
+    "level": "N2",
+    "word": "調整",
+    "reading": "ちょうせい",
+    "meaning": "調整",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "会議の日程を調整していただけませんか。",
+    "translation": "可以請您調整會議的日程嗎？"
+  },
+  {
+    "id": 21,
+    "level": "N2",
+    "word": "評価",
+    "reading": "ひょうか",
+    "meaning": "評價、評估",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "彼の努力は高く評価されている。",
+    "translation": "他的努力受到高度評價。"
+  },
+  {
+    "id": 22,
+    "level": "N2",
+    "word": "貢献",
+    "reading": "こうけん",
+    "meaning": "貢獻",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "地域社会に貢献できる仕事がしたい。",
+    "translation": "我想做能對地方社會有貢獻的工作。"
+  },
+  {
+    "id": 23,
+    "level": "N2",
+    "word": "維持",
+    "reading": "いじ",
+    "meaning": "維持",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "健康を維持するために運動しています。",
+    "translation": "為了維持健康，我有在運動。"
+  },
+  {
+    "id": 24,
+    "level": "N2",
+    "word": "対応",
+    "reading": "たいおう",
+    "meaning": "應對、處理",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "お客様の質問に丁寧に対応してください。",
+    "translation": "請誠懇地應對客人的問題。"
+  },
+  {
+    "id": 25,
+    "level": "N2",
+    "word": "判断",
+    "reading": "はんだん",
+    "meaning": "判斷",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "冷静に判断してから行動したほうがいい。",
+    "translation": "最好冷靜判斷後再行動。"
+  },
+  {
+    "id": 26,
+    "level": "N2",
+    "word": "現象",
+    "reading": "げんしょう",
+    "meaning": "現象",
+    "partOfSpeech": "名詞",
+    "example": "この現象はまだはっきり解明されていない。",
+    "translation": "這個現象尚未被清楚闡明。"
+  },
+  {
+    "id": 27,
+    "level": "N2",
+    "word": "方針",
+    "reading": "ほうしん",
+    "meaning": "方針",
+    "partOfSpeech": "名詞",
+    "example": "会社の方針に従って仕事を進めます。",
+    "translation": "依照公司的方針推進工作。"
+  },
+  {
+    "id": 28,
+    "level": "N2",
+    "word": "需要",
+    "reading": "じゅよう",
+    "meaning": "需求",
+    "partOfSpeech": "名詞",
+    "example": "季節によって商品の需要が変わる。",
+    "translation": "商品的需求會隨季節改變。"
+  },
+  {
+    "id": 29,
+    "level": "N2",
+    "word": "前提",
+    "reading": "ぜんてい",
+    "meaning": "前提",
+    "partOfSpeech": "名詞",
+    "example": "参加することを前提に話を進めましょう。",
+    "translation": "以參加為前提來推進討論吧。"
+  },
+  {
+    "id": 30,
+    "level": "N2",
+    "word": "認識",
+    "reading": "にんしき",
+    "meaning": "認識、認知",
+    "partOfSpeech": "名詞・する動詞",
+    "example": "問題の深刻さを正しく認識する必要がある。",
+    "translation": "有必要正確認識問題的嚴重性。"
+  }
+]
